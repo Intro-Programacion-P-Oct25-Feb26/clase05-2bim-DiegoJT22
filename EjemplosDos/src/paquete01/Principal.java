@@ -43,3 +43,13 @@ public class Principal {
     }
     
 }
+/*
+El programa genera una solucion para obtener el promedio de notas con 5 funciones 
+las cuales se deben importar de diferentes paquetes
+en las cuales se piden ingresar datos del usuario por teclado para obtener 
+sus datos personales y sus notas ademas se presentan los datos personales del usuario
+junto con el promedio.
+
+El formato de la presentacion debe ser separando los datos unos de otros con su 
+respecta descripcion de dato
+*/
